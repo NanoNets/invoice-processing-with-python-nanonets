@@ -10,10 +10,7 @@
 
 ## Reading Invoices
 
-Images and annotations provided by Nanonets
-
-Annotations include bounding boxes for each image and have the same name as the image name. You can find the example to train a model in python, by updating the api-key and model id in corresponding file. There is also a pre-processed json annotations folder that are ready payload for nanonets api.
-
+The Python + Nanonets Invoice Processing API uses Deep Learning to take an invoice and return the key values extracted from the Invoice.
 ** **
 
 # Build a Invoice Processing API
