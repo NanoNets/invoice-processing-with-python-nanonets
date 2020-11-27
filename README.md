@@ -51,6 +51,8 @@ Select the language of your choice and if you wish to send it a file url or loca
 ### Step 5: Create a new file with the copied code
 paste the copied code into a new file using your favorite text editor (if you chose python then copy and paste it into a file called `example.py`)
 
+Inside the file replace the file path with the file path of the file you want to process.
+
 **Sample Usage:**
 ```bash
 python example.py
