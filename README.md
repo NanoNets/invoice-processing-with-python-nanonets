@@ -29,27 +29,27 @@ git clone https://github.com/NanoNets/invoice-processing-with-python-nanonets.gi
 cd invoice-processing-with-python-nanonets
 ```
 
-### Step 3: Create a New Invoice Model
+### Step 2: Create a New Invoice Model
 Get to app.nanonets.com and click `Invoices` you will be redirected to your Invoices model. 
 <div align="center">
-    <img src="https://github.com/NanoNets/invoice-processing-with-python-nanonets/blob/master/demo/SelectInvoices.png" alt="Click Invoices" width = "600"/>
+    <img src="https://github.com/NanoNets/invoice-processing-with-python-nanonets/blob/master/demo/SelectInvoices.png" alt="Click Invoices" width = "800"/>
 </div>
 
 
-### Step 4: Create a New Invoice Model
+### Step 3: Create a New Invoice Model
 Once you are on the new model page click on the integrate tab in the sidebar
 <div align="center">
-    <img src="https://github.com/NanoNets/invoice-processing-with-python-nanonets/blob/master/demo/Integrate.png" alt="Click Integrate" width = "600"/>
+    <img src="https://github.com/NanoNets/invoice-processing-with-python-nanonets/blob/master/demo/Integrate.png" alt="Click Integrate" width = "800"/>
 </div>
 
-### Step 5: Copy the code into a new file
+### Step 4: Copy the code into a new file
 Select the language of your choice and if you wish to send it a file url or local file on your computer
 <div align="center">
-    <img src="https://github.com/NanoNets/invoice-processing-with-python-nanonets/blob/master/demo/Copy.png" alt="Click Copy" width = "600"/>
+    <img src="https://github.com/NanoNets/invoice-processing-with-python-nanonets/blob/master/demo/Copy.png" alt="Click Copy" width = "800"/>
 </div>
 
-### Step 6: Create a new file with the copied code
-paste the copied code into a new file example if you chose python then copy and paste it into a file called `example.py`
+### Step 5: Create a new file with the copied code
+paste the copied code into a new file using your favorite text editor (if you chose python then copy and paste it into a file called `example.py`)
 
 **Sample Usage:**
 ```bash
