@@ -29,28 +29,20 @@ git clone https://github.com/NanoNets/invoice-processing-with-python-nanonets.gi
 cd invoice-processing-with-python-nanonets
 ```
 
-### Step 2: Get your free API Key
-Get your free API Key from http://app.nanonets.com/#/keys
-
-### Step 3: Set the API key as an Environment Variable
-```bash
-export NANONETS_API_KEY=YOUR_API_KEY_GOES_HERE
-```
-
-### Step 4: Create a New Invoice Model
+### Step 3: Create a New Invoice Model
 Get to app.nanonets.com and click `Invoices` you will be redirected to your Invoices model. 
 <div align="center">
     <img src="https://github.com/NanoNets/invoice-processing-with-python-nanonets/blob/master/demo/SelectInvoices.png" alt="Click Invoices" width = "600"/>
 </div>
 
 
-### Step 5: Create a New Invoice Model
+### Step 4: Create a New Invoice Model
 Once you are on the new model page click on the integrate tab in the sidebar
 <div align="center">
     <img src="https://github.com/NanoNets/invoice-processing-with-python-nanonets/blob/master/demo/Integrate.png" alt="Click Integrate" width = "600"/>
 </div>
 
-### Step 6: Copy the code into a new file
+### Step 5: Copy the code into a new file
 Select the language of your choice and if you wish to send it a file url or local file on your computer
 <div align="center">
     <img src="https://github.com/NanoNets/invoice-processing-with-python-nanonets/blob/master/demo/Copy.png" alt="Click Copy" width = "600"/>
